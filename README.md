@@ -16,7 +16,7 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 8. Clean up allocated memory.
    
 ## Program:
-```
+```python
 !apt-get update
 !apt-get install -y build-essential cmake pkg-config libopencv-dev
 
